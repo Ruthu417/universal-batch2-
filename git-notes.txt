@@ -1,0 +1,13 @@
+- Git is a free and open distributed version control system and source code management system
+- Used for managing our files and programs in our system 	
+- It is used to store small projects to very large project in real time
+- In order to process we need git in local machine and github account
+
+   - Installation procedure
+     - git-scm.com (source code management)
+- Project creation
+
+- After creation of project the project has to move to the staging area (means the area where we want to move into our local machine) the entire process is local repository which is folder.
+- In local repository git is our remote
+- In remote repository master is our remote
+- 
